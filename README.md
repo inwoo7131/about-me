@@ -24,6 +24,8 @@
 ### 🏆 프로젝트
 
 #### 1. 🚘 Run2X (단국대학교 자작 자동차 동아리)
+<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/d9e75539-2316-497d-b07a-20f0b60bde27" />
+
 * **활동 기간:** 2020.03 ~ 2023.12
 * **주요 역할:**
     * 냉각(Cooling) 및 에어로(Aero) 파트 담당 설계
